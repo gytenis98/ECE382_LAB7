@@ -11,17 +11,19 @@ This lab is designed to assist you in learning the concepts associated with the 
 
 Each robot has three IR emitter/detector pairs. By using the headers available to you on the top of the robot PCB, you can read a value between 0 V and 5 V that is proportional to the distance to an object in front of the IR sensor. The left/right directions are relative to a person standing behind the robot.
 
-##Required Functionality
+##Required Functionality (sent to Dr. York email)
 
 Use the ADC subsystem to light LEDs based on the presence of a wall. The presence of a wall next to the left sensor should light LED1 on your Launchpad board. The presence of a wall next to the right sensor should light LED2 on your Launchpad board. Demonstrate that the LEDs do not light until each of the three sensors comes into close proximity with a wall.
 
-##B Functionality
+##B Functionality (Done)
 
 Create a standalone library for your ATD code and release it on Github. This should be separate from your lab code. It should have a thoughtful interface and README, capable of being reused in the robot maze laboratory.
 
-##A Functionality
+##A Functionality (done)
 
 Since each robot's sensors are a little bit different, you need to fully characterize the sensor for your robot. Create a table and graphical plot that shows the ATD values for a variety of distances from a maze wall. This table/graph must be generated for each IR sensor. Use these values to determine how the IR sensors work so you can properly use them to solve the maze.
+
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB7/master/2014-12-11%2021.49.01.jpg?raw=true "LCD")
 
 ##Prelab
 
