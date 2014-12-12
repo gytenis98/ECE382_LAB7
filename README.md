@@ -49,3 +49,7 @@ ADC10CTL0: Control Register 0, used to select references (SREFx), sample-and-hol
 ##Debugging
 
 This lab did not need much debugging software wise. It was pretty straight forward. What took a little bit longer was to work the values for my sensors. I found that shades have very big influence to my sensors proper work and after that I started to make sure that I'm not in the way of light before measuring all of them again.
+
+
+##Documentation
+Consulted with both Dr. York and Dr. Coulston how to better check voltages of my sensors. 
