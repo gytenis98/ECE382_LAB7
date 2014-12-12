@@ -38,7 +38,8 @@ ADC10CTL0: Control Register 0, used to select references (SREFx), sample-and-hol
  P1DIR: set BIT0 as output for red LED
  P1OUT: use to set or clear BIT0, the red LED 
  
- ###Interupts:
+###Interupts:
  Interrupts create unnessary confusion. I think sequentional program would be easier.
  
- 
+###Senors:
+
