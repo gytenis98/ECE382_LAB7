@@ -46,5 +46,6 @@ ADC10CTL0: Control Register 0, used to select references (SREFx), sample-and-hol
 ###Interupts:
  Interrupts create unnessary confusion. I think sequentional program would be easier.
  
-###Senors:
+##Debugging
 
+This lab did not need much debugging software wise. It was pretty straight forward. What took a little bit longer was to work the values for my sensors. I found that shades have very big influence to my sensors proper work and after that I started to make sure that I'm not in the way of light before measuring all of them again.
