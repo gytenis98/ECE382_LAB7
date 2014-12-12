@@ -25,6 +25,9 @@ Since each robot's sensors are a little bit different, you need to fully charact
 
 ![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB7/master/2014-12-11%2021.49.01.jpg?raw=true "LCD")
 
+![LCD](https://raw.githubusercontent.com/gytenis98/ECE382_LAB7/master/graph.JPG?raw=true "LCD")
+
+
 ##Prelab
 
 ###Hardware setup
